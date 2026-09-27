@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://a.oonrn.cn/sitemap.xml
